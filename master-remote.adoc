@@ -9,7 +9,7 @@ include::docs/modules/packaging-and-deploying-applications.adoc[leveloffset=+1]
 
 include::docs/modules/feature/featureOverview-purple.adoc[leveloffset=+1]
 
-include::https://raw.githubusercontent.com/OpenLiberty/docs/master/ref/config/serverConfiguration.adoc[leveloffset=+1]
+include::docs/modules/config/serverConfiguration.adoc[leveloffset=+1]
 
 include::docs/modules/logging-purple.adoc[leveloffset=+1]
 
